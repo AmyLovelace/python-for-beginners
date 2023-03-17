@@ -20,3 +20,5 @@ def validar_y_ejecutar(dias_y_unidad_dictionary):
             print("lo ingresado no es un numero valido. fuck off bitch")
     except ValueError:
         print("lo que ingresaste no es un numero valido, no te voy a convertir nah")
+
+user_input_message = "hola usuario, dame el numero de dias y la unidad de conversion\n"
